@@ -1,7 +1,5 @@
 # 📧 Eterna Teknoloji - E-Posta Spam Tespit Sistemi
 
-Bu proje, doğal dil işleme (NLP) ve makine öğrenmesi teknikleri kullanılarak e-postaların **Spam** veya **Normal (Not Spam)** olarak sınıflandırılması amacıyla geliştirilmiş bir yapay zeka ardışık düzenidir (pipeline).
-
 ## 🚀 Proje Mimarisi (Component Yapısı)
 
 Proje, yazılım mimarisi disiplinlerine uygun olarak 5 temel bileşen (component) üzerinden modüler bir şekilde inşa edilmiştir:
